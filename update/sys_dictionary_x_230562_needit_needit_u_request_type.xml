@@ -49,15 +49,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-05-21 07:20:55</sys_created_on>
-        <sys_id>9abca244db9213005be49444ca961940</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>a3ff1cf8db9653005be49444ca9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Request type</sys_name>
         <sys_package display_value="NeedIt" source="x_230562_needit">ce2e560cdb5213005be49444ca96198b</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">ce2e560cdb5213005be49444ca96198b</sys_scope>
         <sys_update_name>sys_dictionary_x_230562_needit_needit_u_request_type</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-22 03:25:42</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-05-23 05:01:29</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

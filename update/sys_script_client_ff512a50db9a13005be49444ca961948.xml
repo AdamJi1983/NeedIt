@@ -12,7 +12,7 @@
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
    if (newValue == '') {
-	  g_form.clearOptions('u_what_needed');
+	  //g_form.clearOptions('u_what_needed');
 // 	  g_form.setDisabled('u_what_needed');
 // 	  g_form.setReadOnly('u_what_needed');
 // 	  g_form.setDisabled('u_when_needed');
@@ -49,7 +49,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ff512a50db9a13005be49444ca961948</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Change What Need By RequestType</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_230562_needit">ce2e560cdb5213005be49444ca96198b</sys_package>
@@ -57,7 +57,7 @@
         <sys_scope display_value="NeedIt">ce2e560cdb5213005be49444ca96198b</sys_scope>
         <sys_update_name>sys_script_client_ff512a50db9a13005be49444ca961948</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-22 03:35:42</sys_updated_on>
+        <sys_updated_on>2018-05-23 05:06:39</sys_updated_on>
         <table>x_230562_needit_needit</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
