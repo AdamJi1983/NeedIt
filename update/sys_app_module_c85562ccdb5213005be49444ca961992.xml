@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="NeedIt">bebe5a4cdb5213005be49444ca9619aa</application>
+        <application display_value="NeedIt">9669b105db5213005be49444ca961998</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -18,7 +18,7 @@
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_230562_needit_needit</name>
         <order>300</order>
-        <override_menu_roles>false</override_menu_roles>
+        <override_menu_roles>true</override_menu_roles>
         <query/>
         <report/>
         <roles>x_230562_needit.needit_user,x_230562_needit.approver</roles>
@@ -28,7 +28,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c85562ccdb5213005be49444ca961992</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Open</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_230562_needit">ce2e560cdb5213005be49444ca96198b</sys_package>
@@ -36,7 +36,7 @@
         <sys_scope display_value="NeedIt">ce2e560cdb5213005be49444ca96198b</sys_scope>
         <sys_update_name>sys_app_module_c85562ccdb5213005be49444ca961992</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-24 05:40:38</sys_updated_on>
+        <sys_updated_on>2018-05-24 06:17:48</sys_updated_on>
         <timeline_page/>
         <title>Open</title>
         <uncancelable>false</uncancelable>

@@ -2,7 +2,7 @@
 <record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
         <contains display_value="x_230562_needit.approver" name="x_230562_needit.approver">41ace509db1213005be49444ca9619dd</contains>
-        <role display_value="x_230562_needit.needit_user" name="x_230562_needit.needit_user">b2bedec8db5213005be49444ca96198d</role>
+        <role display_value="x_230562_needit.user" name="x_230562_needit.user">b2bedec8db5213005be49444ca96198d</role>
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-05-24 05:20:36</sys_created_on>
